@@ -6,8 +6,7 @@ This project was carried out for the "Big Data Computing" exam, Master degree in
 <img align="left" width="0" height="192px" hspace="10"/>
 
 
-With the advent of digital transformation, a low-code development platform that anyone can use to rapidly develop new ones is an essential tool for enabling your business to adapt and thrive.
-Low-code development platforms make companies more productive and flexible by offering: efficiency, flexibility, responsiveness, iterability.
+The project is about building a recommender system for anime using data from Kaggle. The data contains 109 million reviews, 17,562 anime, and 325,772 unique users. The data was explored and analyzed. The recommender system was built using different approaches: Popularity-Based and Collaborative Filtering using the ALS algorithm. The results of the model were evaluated using RMSE, MSE, and MAE. Additionally, a content-based recommender system was implemented using user profiles and cosine similarity. The performance of the content-based recommender system was evaluated using precision and recall. Finally we create a web application using streamlit framework.
 
 <br><br>
 <br>
@@ -49,9 +48,9 @@ docker run --publish 8051:8051 -it app:1.0
 - pages/ : python file for the rating page for the web app
 
 ## Summary
-The project aims to improve the user experience with anime content by assisting new users in discovering the anime world and helping existing users explore new options. The solution is a recommender system that employs two types of filtering: collaborative filtering and content-based filtering.
+The project aims to improve the user experience with anime content by assisting new users in discovering the anime world and helping existing users explore new options. 
 
-The dataset used is the MyAnimeList Database 2020, which contains 109 million reviews, 17,562 anime, and 325,772 unique users. The data was cleaned and explored, and some of the findings include the high number of unrated reviews, the top 10 highest average ratings and most reviewed anime, and the classification of anime by genres.
+The dataset used is the MyAnimeList Database 2020, which contains 109 million reviews, 17,562 anime, and 325,772 unique users. The data was cleaned and explored.
 
 The popularity-based approach uses the 20 most popular anime to avoid the cold start problem and help new users. The collaborative filtering approach uses the ALS method to make recommendations based on the preferences of similar users. The performance of the model was evaluated using RMSE, MSE, and MAE.
 
