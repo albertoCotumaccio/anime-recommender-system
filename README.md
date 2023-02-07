@@ -56,10 +56,6 @@ The content-based approach with user profile creates personalized recommendation
 
 Finally, a web application was created to demonstrate the anime recommender system.
 
-<br><br>
-<br>
-<br>
-<br>
 
 ## Authors :thumbsup:
 
