@@ -9,6 +9,9 @@ This project was carried out for the "Big Data Computing" exam, Master degree in
 With the advent of digital transformation, a low-code development platform that anyone can use to rapidly develop new ones is an essential tool for enabling your business to adapt and thrive.
 Low-code development platforms make companies more productive and flexible by offering: efficiency, flexibility, responsiveness, iterability.
 
+<br><br>
+<br>
+
 ## Pre-requisites
 
 The project was developed using python 3.6.7 with the following packages.
