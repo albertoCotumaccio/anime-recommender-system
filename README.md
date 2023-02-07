@@ -38,7 +38,7 @@ docker build --tag app:1.0 .
 docker run --publish 8051:8051 -it app:1.0
 ```
 ## Files
-- anime_reconmmendation_system.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling and inference.
+- Recommendations.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling and inference.
 - app.py : Streamlit App script
 - requirements.txt : pre-requiste libraries for the project
 - models/ : cvs files (note: it does not contain animelist.csv because it is too heavy. It has to be downloaded manually
