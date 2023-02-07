@@ -41,7 +41,7 @@ docker run --publish 8051:8051 -it app:1.0
 - Recommendations.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling and inference.
 - app.py : Streamlit App script
 - requirements.txt : pre-requiste libraries for the project
-- models/ : cvs files (note: it does not contain animelist.csv because it is too heavy. It has to be downloaded manually
+- models/ : cvs files (note: it does not contain animelist.csv because it is too heavy. It has to be downloaded manually)
 - notebooks/ : notebooks used for the project. One for the creation of recommendation systems and one for the data exploration phase
 - pages/ : python file for the rating page for the web app
 
