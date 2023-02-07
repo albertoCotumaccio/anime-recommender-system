@@ -6,7 +6,7 @@ This project was carried out for the "Big Data Computing" exam, Master degree in
 <img align="left" width="0" height="192px" hspace="10"/>
 
 
-The project is about building a recommender system for anime using data from [Kaggle](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). The data contains 109 million reviews, 17,562 anime, and 325,772 unique users. The data was explored and analyzed. The recommender system was built using different approaches: Popularity-Based and Collaborative Filtering using the ALS algorithm. The results of the model were evaluated using RMSE, MSE, and MAE. Additionally, a content-based recommender system was implemented using user profiles and cosine similarity. The performance of the content-based recommender system was evaluated using precision and recall. Finally we create a web application using streamlit framework.
+The project is about building a recommender system for anime using data from [Kaggle](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). The data contains 109 million reviews, 17,562 anime, and 325,772 unique users. The data was explored and analyzed. The recommender system was built using different approaches: Popularity-Based and Collaborative Filtering using the ALS algorithm. The results of the model were evaluated using RMSE, MSE, and MAE. Additionally, a content-based recommender system was implemented using user profiles and cosine similarity. The performance of the content-based recommender system was evaluated using precision and recall. Finally was created a web application using Streamlit framework.
 
 
 ## Pre-requisites
