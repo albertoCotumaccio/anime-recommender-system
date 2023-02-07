@@ -1,4 +1,4 @@
-## Anime Recommender System[![Open in Streamlit](https://albertocotumaccio-anime-recommender-system-app-o6d6hj.streamlit.app/)
+## Anime Recommender System[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://albertocotumaccio-anime-recommender-system-app-o6d6hj.streamlit.app/)
 
 This project was carried out for the "Big Data Computing" exam, Master degree in Computer Science at Sapienza university - January 2023
 
